@@ -1,0 +1,14 @@
+{
+  "name": "vercel-nx-demo",
+  "version": "1.0.0",
+  "description": "Demo project to show issue with environment variables when deploying to vercel",
+  "main": "index.js",
+  "author": "Greg Ferreri <gferreri@splashfinancial.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@nrwl/cli": "^14.5.10",
+    "@nrwl/workspace": "^14.5.10",
+    "nx": "14.5.10"
+  }
+}
